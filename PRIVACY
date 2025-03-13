@@ -1,0 +1,34 @@
+# Politique de Confidentialité
+
+*Dernière mise à jour : [Date du jour]*
+
+## Introduction
+
+Cette politique de confidentialité explique comment l'extension Chrome "Newsletter Unsubscriber" collecte, utilise et protège vos informations lorsque vous utilisez notre extension.
+
+## Informations que nous collectons
+
+L'extension "Newsletter Unsubscriber" accède uniquement aux emails que vous sélectionnez manuellement dans Gmail, et ce uniquement pour détecter les liens de désinscription. Nous ne collectons, ne stockons ni ne transmettons aucune donnée personnelle à des serveurs externes.
+
+## Utilisation des informations
+
+Les informations auxquelles l'extension accède sont utilisées uniquement pour :
+- Détecter les liens de désinscription dans les emails que vous sélectionnez
+- Ouvrir ces liens dans un nouvel onglet pour vous permettre de vous désinscrire
+
+Toutes les opérations sont effectuées localement dans votre navigateur.
+
+## Stockage des données
+
+L'extension stocke uniquement votre token d'authentification OAuth dans le stockage local de Chrome. Ce token est utilisé uniquement pour accéder à Gmail et n'est jamais partagé avec des tiers.
+
+## Permissions requises
+
+L'extension demande les permissions suivantes :
+- Accès à Gmail (via OAuth) : pour lire les emails sélectionnés et détecter les liens de désinscription
+- Stockage local : pour sauvegarder votre token d'authentification
+- Onglets : pour ouvrir les liens de désinscription dans un nouvel onglet
+
+## Contact
+
+Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à : informatik81@gmail.com
